@@ -4,6 +4,6 @@ BEGIN
 	SELECT numfou FROM entcom;
 END |
 
-DELIMTER;
+DELIMITER;
 
 SHOW CREATE PROCEDURE listClients; /* affiche le résultat de la fonction */
